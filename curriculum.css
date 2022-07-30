@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:rgb(247, 174, 149);
+    background-color: rgb(247, 167, 121);
     text-align: justify;
     margin-left: 30px;
 }
@@ -19,4 +19,17 @@ h3 {
 .importante {
     font-size: 20px;
     font-weight: bold;
+}
+
+.columnas {
+    column-count: 3;
+}
+
+p {
+    margin-top: 0;
+}
+
+.sombra {
+    box-shadow: -15px -5px 10px rgb(92, 76, 41);
+    border-radius: 25px;
 }
